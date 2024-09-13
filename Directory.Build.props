@@ -1,0 +1,14 @@
+<Project>
+  <!-- See https://aka.ms/dotnet/msbuild/customize for more details on customizing your build -->
+  <PropertyGroup>
+	  <Product>Mandelbrot Set Calculator Program</Product>
+	  <Title>Mandelbrot Set Calculator Program</Title>
+	  <Description>Basic Mandelbrot set calculator program by KB3HHA Seth Cohen</Description>
+	  <Authors>KB3HHA - Seth Cohen</Authors>
+	  <Company>Quarantine Software</Company>
+	  <Copyright>Copyright © 2017-$([System.DateTime]::Now.ToString("yyyy"))</Copyright>
+	  <AssemblyVersion>1.0.0.1</AssemblyVersion>
+	  <FileVersion>1.0.0.1</FileVersion>
+	  <Version>1.0.0.1</Version>
+  </PropertyGroup>
+</Project>
